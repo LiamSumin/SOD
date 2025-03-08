@@ -1,0 +1,4 @@
+# ninja log v5
+0	4926	1741419266484245576	/home/sumin/Projects/SOD/lib/zoo/InternImage/classification/ops_dcnv3/build/temp.linux-x86_64-3.11/home/sumin/Projects/SOD/lib/zoo/InternImage/classification/ops_dcnv3/src/cpu/dcnv3_cpu.o	9556c2cdd51b069b
+0	17015	1741419278572334839	/home/sumin/Projects/SOD/lib/zoo/InternImage/classification/ops_dcnv3/build/temp.linux-x86_64-3.11/home/sumin/Projects/SOD/lib/zoo/InternImage/classification/ops_dcnv3/src/vision.o	46da61f1b59205ae
+0	47875	1741419309416559698	/home/sumin/Projects/SOD/lib/zoo/InternImage/classification/ops_dcnv3/build/temp.linux-x86_64-3.11/home/sumin/Projects/SOD/lib/zoo/InternImage/classification/ops_dcnv3/src/cuda/dcnv3_cuda.o	c65086ca38d3347b
